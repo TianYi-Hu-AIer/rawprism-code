@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Generated training and inference artifacts must not enter source history.
+cache/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.tif
+*.tiff
+*.png
+*.log
+

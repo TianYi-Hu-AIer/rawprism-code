@@ -1,0 +1,170 @@
+{
+  "status": "COLLECTION_ONLY_NOT_PROVENANCE_VERIFIED",
+  "files": [
+    {
+      "path": "data/ivif_rt/manifest_test.json",
+      "bytes": 224519,
+      "sha256": "3cc921982aca1532c56136d1a4f403cf4d765dd8ffb1e57c9f2d2e6e33476d2c"
+    },
+    {
+      "path": "data/ivif_rt/manifest_train.json",
+      "bytes": 977098,
+      "sha256": "a826923bc61f7384e890fecdc9d492f45fecdaa41e348e1de461ba19839810ee"
+    },
+    {
+      "path": "pipeline/ivif_v2/logs/cpart_swinfusion.log",
+      "bytes": 139,
+      "sha256": "a11afdcbdaa811d2d76b770bbf66a51c149c05573370d21ae9a28f4719d786d0"
+    },
+    {
+      "path": "pipeline/ivif_v2/logs/cpart_unifusion.log",
+      "bytes": 138,
+      "sha256": "247a90c87d36f27126c53dd6eb62008d54c72cc5db6737dacde90a37ac01a29e"
+    },
+    {
+      "path": "pipeline/ivif_v2/logs/spart_swinfusion.log",
+      "bytes": 139,
+      "sha256": "9696db19445a9e281ad465f3c333556bd1440fba6aaf81cc9a939854e729536a"
+    },
+    {
+      "path": "pipeline/ivif_v2/logs/spart_unifusion.log",
+      "bytes": 138,
+      "sha256": "c936e183d6b8e0340234282c78edb0bc27da13d3886148cd1c9f1a4b9707cb99"
+    },
+    {
+      "path": "pipeline/ivif_v2/logs/swinfusion_C.log",
+      "bytes": 30258,
+      "sha256": "41e9bf5e127832d3f92b9fedb920bd17edb8dd89f1e6a9ba794e1e89c3bca8a4"
+    },
+    {
+      "path": "pipeline/ivif_v2/logs/swinfusion_C_rerun.log",
+      "bytes": 5787,
+      "sha256": "d5be2e807e3bb187a02e1cc18657b3cb5f57406330333e8e94f93c5f3da21845"
+    },
+    {
+      "path": "pipeline/ivif_v2/logs/unifusion_C.log",
+      "bytes": 56850,
+      "sha256": "2f751cf763df2e32e6b8cfc547800dcfb8b3b3951e636b236c8d3c18c22893a6"
+    },
+    {
+      "path": "pipeline/ivif_v2/unifusion/C/test.json",
+      "bytes": 2388,
+      "sha256": "af5635604de079d455b4544ba7030cf2777040ca90b28ab22b2831cad64ad366"
+    },
+    {
+      "path": "pipeline/unifusion_fix_work/mff/run.log",
+      "bytes": 8192,
+      "sha256": "9db1dd0e156e939a93ac0d5eba548de609159501087306dfc0e836dd3997e11e"
+    },
+    {
+      "path": "pipeline/unifusion_fix_work/mff/test.json",
+      "bytes": 2150,
+      "sha256": "6a858fda07d231d936925efaa755b66db83a0618020e20c69f39727e31194d0d"
+    },
+    {
+      "path": "pipeline/unifusion_grid/ivif/run.log",
+      "bytes": 56850,
+      "sha256": "e1caaa4bc5e90e7e6478690d7c4d793ccb241f144ddb1062b01860a1882d64e7"
+    },
+    {
+      "path": "pipeline/unifusion_grid/ivif/test.json",
+      "bytes": 2388,
+      "sha256": "ac43ab07f48fe88f1dd4ab1487e6c01778c908cee360f0d8e6179ada5c89e2a0"
+    },
+    {
+      "path": "pipeline/unifusion_grid/mef/run.log",
+      "bytes": 11961,
+      "sha256": "00816cbe6c9448adcce699bb6a01fc93c5c2a58aaeab28238d9f829c66293e5b"
+    },
+    {
+      "path": "pipeline/unifusion_grid/mef/test.json",
+      "bytes": 2142,
+      "sha256": "85f7ded5135994f056bcfb42536324f1d5b47ea4edd47ffef7193fc6f7857fc0"
+    },
+    {
+      "path": "pipeline/unifusion_grid/mff/run.log",
+      "bytes": 6860,
+      "sha256": "ec9f39cb5be23264759b9fe1d8091bd66d64feefc83b738e60423604b7ee4c81"
+    },
+    {
+      "path": "pipeline/unifusion_grid/mff/test.json",
+      "bytes": 2130,
+      "sha256": "c48e6ea73a4fc1f60448e1b283404315fd9fb7c1a331ac15b5be3e4d4c778b9f"
+    },
+    {
+      "path": "pipeline/unifusion_work/mff/test.json",
+      "bytes": 2138,
+      "sha256": "e3f8f1f90c38dc5cdda34a3e0bba3f6f59cc9de75648c35e38d249337277cb1b"
+    },
+    {
+      "path": "runs/v10/resolved_config.json",
+      "bytes": 3294,
+      "sha256": "e926fda7b828105251b73bad8dc9d6c4e60f244b0fde0f80dc9c875ffb155df1"
+    },
+    {
+      "path": "runs/v10_iviffix_ivif/resolved_config.json",
+      "bytes": 3443,
+      "sha256": "aab2868bd7ce9f4df3bff78f636e8ce7f36680e5538c7783464fd6d5aa1edbdf"
+    },
+    {
+      "path": "splits/ivif_validation.txt",
+      "bytes": 800,
+      "sha256": "394445d252afeec3d69707667c3ff270da9854bfb34115b2c8b4340203c2c4fe"
+    },
+    {
+      "path": "tools/baselines/run_swinfusion_only.py",
+      "bytes": 4359,
+      "sha256": "eec79911211df8ea11c401b831d4aeb2524f1afd910a6c44cc2491300b177145"
+    },
+    {
+      "path": "tools/baselines/run_unifusion.py",
+      "bytes": 6656,
+      "sha256": "89426265b95d9284bdf43b266911411bc27a6bb2b14fc5a60f68bff6d0202317"
+    },
+    {
+      "path": "tools/ivif_v2/alpha_sweep.py",
+      "bytes": 3694,
+      "sha256": "b51d526d72d759337fb13a8cfe657f3f1fd6986bb24487377c69f36a0797203c"
+    },
+    {
+      "path": "tools/ivif_v2/make_roundtrip.py",
+      "bytes": 4468,
+      "sha256": "c13ca05594510832c860dd9aefd0426434ecc5f415b77ad378ad21173da0bcce"
+    },
+    {
+      "path": "tools/ivif_v2/run_swinfusion.py",
+      "bytes": 4894,
+      "sha256": "674f393763cf5eceaa355e8b30cb3fc3a01019f1593acac7ebfbd8de9bc72f8a"
+    },
+    {
+      "path": "tools/ivif_v2/run_unifusion.py",
+      "bytes": 5524,
+      "sha256": "d9c3e4156a54cc98a6d83aa32ad4bebdb7a0fafc3706fe1bc48876252eda8961"
+    },
+    {
+      "path": "tools/local/validate_metrics_v2.py",
+      "bytes": 4419,
+      "sha256": "8f2c70de4175628b864264a50f95264322a296f47dcbfcc7d54ada96103a5ad4"
+    },
+    {
+      "path": "tools/remote/eval_specialists.sh",
+      "bytes": 812,
+      "sha256": "dca1c0ce3f47f900438d468cfb965ffc752aa7f23904556b6200b34fa5740a02"
+    },
+    {
+      "path": "tools/remote/run_unifusion_grid.py",
+      "bytes": 6022,
+      "sha256": "5be5c4d49fcbdb73937a94a296edee27f8f608fefc8423715ca50ddfcc10ceec"
+    },
+    {
+      "path": "tools/remote/verify_code.py",
+      "bytes": 3205,
+      "sha256": "17d5d98c13a85c9af8dbd687de17955daeffc3a66a6702bfc42c6291bf0077b6"
+    }
+  ],
+  "missing": [
+    "results/ablation_metrics.json",
+    "tools/cloud/run_swinfusion_only.py"
+  ],
+  "refused": []
+}

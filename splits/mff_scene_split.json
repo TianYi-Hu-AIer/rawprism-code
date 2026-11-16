@@ -1,0 +1,1072 @@
+{
+  "format": "finalfusion_mff_scene_split_v1",
+  "seed": 20260816,
+  "counts": {
+    "total": 150,
+    "train": 120,
+    "validation": 15,
+    "test": 15
+  },
+  "splits": {
+    "train": [
+      "scene_0144",
+      "scene_0087",
+      "scene_0037",
+      "scene_0110",
+      "scene_0079",
+      "scene_0070",
+      "scene_0169",
+      "scene_0111",
+      "scene_0051",
+      "scene_0158",
+      "scene_0131",
+      "scene_0147",
+      "scene_0077",
+      "scene_0093",
+      "scene_0003",
+      "scene_0064",
+      "scene_0067",
+      "scene_0145",
+      "scene_0150",
+      "scene_0174",
+      "scene_0084",
+      "scene_0008",
+      "scene_0149",
+      "scene_0132",
+      "scene_0148",
+      "scene_0019",
+      "scene_0163",
+      "scene_0013",
+      "scene_0138",
+      "scene_0109",
+      "scene_0157",
+      "scene_0021",
+      "scene_0089",
+      "scene_0113",
+      "scene_0034",
+      "scene_0036",
+      "scene_0170",
+      "scene_0097",
+      "scene_0178",
+      "scene_0076",
+      "scene_0033",
+      "scene_0112",
+      "scene_0038",
+      "scene_0143",
+      "scene_0168",
+      "scene_0161",
+      "scene_0039",
+      "scene_0102",
+      "scene_0010",
+      "scene_0049",
+      "scene_0128",
+      "scene_0035",
+      "scene_0133",
+      "scene_0152",
+      "scene_0176",
+      "scene_0116",
+      "scene_0101",
+      "scene_0151",
+      "scene_0122",
+      "scene_0177",
+      "scene_0159",
+      "scene_0016",
+      "scene_0135",
+      "scene_0117",
+      "scene_0172",
+      "scene_0042",
+      "scene_0009",
+      "scene_0094",
+      "scene_0054",
+      "scene_0099",
+      "scene_0027",
+      "scene_0078",
+      "scene_0129",
+      "scene_0096",
+      "scene_0045",
+      "scene_0085",
+      "scene_0026",
+      "scene_0046",
+      "scene_0020",
+      "scene_0056",
+      "scene_0005",
+      "scene_0167",
+      "scene_0055",
+      "scene_0032",
+      "scene_0007",
+      "scene_0015",
+      "scene_0105",
+      "scene_0160",
+      "scene_0088",
+      "scene_0057",
+      "scene_0175",
+      "scene_0153",
+      "scene_0127",
+      "scene_0072",
+      "scene_0006",
+      "scene_0073",
+      "scene_0028",
+      "scene_0162",
+      "scene_0140",
+      "scene_0086",
+      "scene_0139",
+      "scene_0082",
+      "scene_0052",
+      "scene_0061",
+      "scene_0081",
+      "scene_0002",
+      "scene_0069",
+      "scene_0173",
+      "scene_0066",
+      "scene_0118",
+      "scene_0179",
+      "scene_0130",
+      "scene_0024",
+      "scene_0142",
+      "scene_0171",
+      "scene_0166",
+      "scene_0120",
+      "scene_0165",
+      "scene_0123",
+      "scene_0156"
+    ],
+    "validation": [
+      "scene_0154",
+      "scene_0164",
+      "scene_0058",
+      "scene_0155",
+      "scene_0062",
+      "scene_0146",
+      "scene_0044",
+      "scene_0080",
+      "scene_0011",
+      "scene_0141",
+      "scene_0047",
+      "scene_0126",
+      "scene_0018",
+      "scene_0114",
+      "scene_0004"
+    ],
+    "test": [
+      "scene_0134",
+      "scene_0068",
+      "scene_0050",
+      "scene_0115",
+      "scene_0001",
+      "scene_0025",
+      "scene_0136",
+      "scene_0119",
+      "scene_0137",
+      "scene_0031",
+      "scene_0083",
+      "scene_0060",
+      "scene_0022",
+      "scene_0100",
+      "scene_0124"
+    ]
+  },
+  "scene_quality": {
+    "scene_0001": {
+      "scene": "scene_0001",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0002": {
+      "scene": "scene_0002",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0003": {
+      "scene": "scene_0003",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0004": {
+      "scene": "scene_0004",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0005": {
+      "scene": "scene_0005",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0006": {
+      "scene": "scene_0006",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0007": {
+      "scene": "scene_0007",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0008": {
+      "scene": "scene_0008",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0009": {
+      "scene": "scene_0009",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0010": {
+      "scene": "scene_0010",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0011": {
+      "scene": "scene_0011",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0013": {
+      "scene": "scene_0013",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0015": {
+      "scene": "scene_0015",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0016": {
+      "scene": "scene_0016",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0018": {
+      "scene": "scene_0018",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0019": {
+      "scene": "scene_0019",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0020": {
+      "scene": "scene_0020",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0021": {
+      "scene": "scene_0021",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0022": {
+      "scene": "scene_0022",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0024": {
+      "scene": "scene_0024",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0025": {
+      "scene": "scene_0025",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0026": {
+      "scene": "scene_0026",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0027": {
+      "scene": "scene_0027",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0028": {
+      "scene": "scene_0028",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0031": {
+      "scene": "scene_0031",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0032": {
+      "scene": "scene_0032",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0033": {
+      "scene": "scene_0033",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0034": {
+      "scene": "scene_0034",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0035": {
+      "scene": "scene_0035",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0036": {
+      "scene": "scene_0036",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0037": {
+      "scene": "scene_0037",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0038": {
+      "scene": "scene_0038",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0039": {
+      "scene": "scene_0039",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0042": {
+      "scene": "scene_0042",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0044": {
+      "scene": "scene_0044",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0045": {
+      "scene": "scene_0045",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0046": {
+      "scene": "scene_0046",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0047": {
+      "scene": "scene_0047",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0049": {
+      "scene": "scene_0049",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0050": {
+      "scene": "scene_0050",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0051": {
+      "scene": "scene_0051",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0052": {
+      "scene": "scene_0052",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0054": {
+      "scene": "scene_0054",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0055": {
+      "scene": "scene_0055",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0056": {
+      "scene": "scene_0056",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0057": {
+      "scene": "scene_0057",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0058": {
+      "scene": "scene_0058",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0060": {
+      "scene": "scene_0060",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0061": {
+      "scene": "scene_0061",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0062": {
+      "scene": "scene_0062",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0064": {
+      "scene": "scene_0064",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0066": {
+      "scene": "scene_0066",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0067": {
+      "scene": "scene_0067",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0068": {
+      "scene": "scene_0068",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0069": {
+      "scene": "scene_0069",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0070": {
+      "scene": "scene_0070",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0072": {
+      "scene": "scene_0072",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0073": {
+      "scene": "scene_0073",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0076": {
+      "scene": "scene_0076",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0077": {
+      "scene": "scene_0077",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0078": {
+      "scene": "scene_0078",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0079": {
+      "scene": "scene_0079",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0080": {
+      "scene": "scene_0080",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0081": {
+      "scene": "scene_0081",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0082": {
+      "scene": "scene_0082",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0083": {
+      "scene": "scene_0083",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0084": {
+      "scene": "scene_0084",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0085": {
+      "scene": "scene_0085",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0086": {
+      "scene": "scene_0086",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0087": {
+      "scene": "scene_0087",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0088": {
+      "scene": "scene_0088",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0089": {
+      "scene": "scene_0089",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0093": {
+      "scene": "scene_0093",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0094": {
+      "scene": "scene_0094",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0096": {
+      "scene": "scene_0096",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0097": {
+      "scene": "scene_0097",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0099": {
+      "scene": "scene_0099",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0100": {
+      "scene": "scene_0100",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0101": {
+      "scene": "scene_0101",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0102": {
+      "scene": "scene_0102",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0105": {
+      "scene": "scene_0105",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0109": {
+      "scene": "scene_0109",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0110": {
+      "scene": "scene_0110",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0111": {
+      "scene": "scene_0111",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0112": {
+      "scene": "scene_0112",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0113": {
+      "scene": "scene_0113",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0114": {
+      "scene": "scene_0114",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0115": {
+      "scene": "scene_0115",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0116": {
+      "scene": "scene_0116",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0117": {
+      "scene": "scene_0117",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0118": {
+      "scene": "scene_0118",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0119": {
+      "scene": "scene_0119",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0120": {
+      "scene": "scene_0120",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0122": {
+      "scene": "scene_0122",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0123": {
+      "scene": "scene_0123",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0124": {
+      "scene": "scene_0124",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0126": {
+      "scene": "scene_0126",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0127": {
+      "scene": "scene_0127",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0128": {
+      "scene": "scene_0128",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0129": {
+      "scene": "scene_0129",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0130": {
+      "scene": "scene_0130",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0131": {
+      "scene": "scene_0131",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0132": {
+      "scene": "scene_0132",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0133": {
+      "scene": "scene_0133",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0134": {
+      "scene": "scene_0134",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0135": {
+      "scene": "scene_0135",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0136": {
+      "scene": "scene_0136",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0137": {
+      "scene": "scene_0137",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0138": {
+      "scene": "scene_0138",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0139": {
+      "scene": "scene_0139",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0140": {
+      "scene": "scene_0140",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0141": {
+      "scene": "scene_0141",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0142": {
+      "scene": "scene_0142",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0143": {
+      "scene": "scene_0143",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0144": {
+      "scene": "scene_0144",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0145": {
+      "scene": "scene_0145",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0146": {
+      "scene": "scene_0146",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0147": {
+      "scene": "scene_0147",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0148": {
+      "scene": "scene_0148",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0149": {
+      "scene": "scene_0149",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0150": {
+      "scene": "scene_0150",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0151": {
+      "scene": "scene_0151",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0152": {
+      "scene": "scene_0152",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0153": {
+      "scene": "scene_0153",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0154": {
+      "scene": "scene_0154",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0155": {
+      "scene": "scene_0155",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0156": {
+      "scene": "scene_0156",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0157": {
+      "scene": "scene_0157",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0158": {
+      "scene": "scene_0158",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0159": {
+      "scene": "scene_0159",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0160": {
+      "scene": "scene_0160",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0161": {
+      "scene": "scene_0161",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0162": {
+      "scene": "scene_0162",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0163": {
+      "scene": "scene_0163",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0164": {
+      "scene": "scene_0164",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0165": {
+      "scene": "scene_0165",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0166": {
+      "scene": "scene_0166",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0167": {
+      "scene": "scene_0167",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0168": {
+      "scene": "scene_0168",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0169": {
+      "scene": "scene_0169",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0170": {
+      "scene": "scene_0170",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0171": {
+      "scene": "scene_0171",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0172": {
+      "scene": "scene_0172",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0173": {
+      "scene": "scene_0173",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0174": {
+      "scene": "scene_0174",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0175": {
+      "scene": "scene_0175",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    },
+    "scene_0176": {
+      "scene": "scene_0176",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0177": {
+      "scene": "scene_0177",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0178": {
+      "scene": "scene_0178",
+      "accepted_for_dataset": true,
+      "quality_status": "pass",
+      "recommended_action": "accept"
+    },
+    "scene_0179": {
+      "scene": "scene_0179",
+      "accepted_for_dataset": false,
+      "quality_status": "warning",
+      "recommended_action": "review"
+    }
+  },
+  "data_root_at_creation": "/root/autodl-tmp/rawprism/data/mff",
+  "quality_policy": "all"
+}

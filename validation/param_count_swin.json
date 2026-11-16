@@ -1,0 +1,24 @@
+{
+  "parameters": 973681,
+  "trainable_parameters": 973681,
+  "unique_named_parameters": 408,
+  "state_elements": 13671281,
+  "checkpoint_elements": 13671281,
+  "missing_keys": [],
+  "unexpected_keys": [],
+  "strict_load": true,
+  "method": "SwinFusion",
+  "task": "ivif",
+  "device": "cpu",
+  "repo_root": "/workspace/rawprism/repos/SwinFusion-master",
+  "repo_commit": null,
+  "repo_commit_verified": false,
+  "artifacts": {
+    "checkpoint": {
+      "file": "10000_E.pth",
+      "resolved_path": "/workspace/rawprism/repos/SwinFusion-master/Model/Infrared_Visible_Fusion/Infrared_Visible_Fusion/models/10000_E.pth",
+      "sha256": "e5f5927195e9b75264737fce77520e7294d1001f83ebab6cd4ac439a3c272c31"
+    }
+  },
+  "torch_version": "2.8.0+cu128"
+}

@@ -1,0 +1,58 @@
+{
+  "metric_version": "rawprism-metrics-v2",
+  "reference": null,
+  "methods": [
+    "final"
+  ],
+  "summary": {
+    "final": {
+      "mef": {
+        "n": 42,
+        "expected_n": 42,
+        "fov_modes": [
+          "strict"
+        ],
+        "EN": 6.76259579470808,
+        "SD": 0.16106339022835212,
+        "Q_ABF": 0.4432361391023862,
+        "MI": 7.247874839766072,
+        "SCD": 0.38037363934010004,
+        "VIF": 1.0054641693342894,
+        "CC": 0.9566416106024417,
+        "SSIM": 0.5904445589795453,
+        "PSNR": 13.596542882188484,
+        "SF": 0.04649118482970187,
+        "AG": 0.018355135284375858,
+        "MEFSSIM": 0.909784049224003,
+        "EN_median": 6.820250536659245,
+        "SD_median": 0.1578386220205376,
+        "Q_ABF_median": 0.42412349231695545,
+        "MI_median": 7.3377434085331545,
+        "SCD_median": 0.2776410114723733,
+        "VIF_median": 0.989506215906416,
+        "CC_median": 0.9803304414913069,
+        "SSIM_median": 0.6212703867985335,
+        "PSNR_median": 13.68973596808811,
+        "SF_median": 0.043100570633905905,
+        "AG_median": 0.01634666098081109,
+        "MEFSSIM_median": 0.9256991903853229
+      }
+    }
+  },
+  "paired": {},
+  "run_manifest": "run_manifest.json",
+  "mef_ssim": {
+    "version": "ma2015-mef-ssim-v1.0-python1",
+    "levels": 3,
+    "range": [
+      0,
+      255
+    ],
+    "source_exposures": [
+      "under",
+      "over"
+    ],
+    "grayscale": "metrics_v2.to_gray float RGB luminance",
+    "historical_table_equivalence": "unverified; needs original metric runner/data"
+  }
+}

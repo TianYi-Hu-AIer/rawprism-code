@@ -1,0 +1,36 @@
+{
+  "torch_version": "2.8.0+cu128",
+  "files": {
+    "v10": {
+      "path": "runs/v10/best.pt",
+      "sha256": "4a1b85cfa59c8f774eeb353228b87e71cbaba3f9aa3f1c8a7eaf4928cec6e00d"
+    },
+    "delta": {
+      "path": "review_build/ivif_branch_delta.pt",
+      "sha256": "66e428488c4e75d116058fa3d2878817e01421968fa60bbf80ea3df5b661e611"
+    },
+    "final": {
+      "path": "review_build/rawprism_final_inference.pt",
+      "sha256": "611f2b757dd378b2e45107615893441e2dbe5b1fafc6304255f323fd2b0bbe69"
+    }
+  },
+  "passed": true,
+  "architecture": "rawprism-v6-reliability-gated-concat",
+  "tasks": [
+    "ivif",
+    "mef",
+    "mff"
+  ],
+  "model_state_dicts": [
+    "model"
+  ],
+  "state_tensor_count": 195,
+  "delta_tensor_count": 10,
+  "non_ivif_checked": 185,
+  "all_non_ivif_equal_v10": true,
+  "all_ivif_equal_delta": true,
+  "strict_load": true,
+  "parameters": 3584408,
+  "trainable_parameters": 3584408,
+  "visible_residual_scale": 0.1
+}

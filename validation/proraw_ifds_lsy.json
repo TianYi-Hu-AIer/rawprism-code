@@ -1,0 +1,587 @@
+[
+  {
+    "file": "data/mef/scene_0001/under.dng",
+    "sha256": "eb9127e040b83687d9d0dad05dbc7a1a76a332e1735515bcfe24588ccc70921c",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0001/normal.dng",
+    "sha256": "3d386f9fa5c5920bd9abaa13036d5782b7e92efa56330c414788b7ac17ce6801",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0001/over.dng",
+    "sha256": "d30b14a3271d0a538ff13a49786a1b628941f28080820fc8658c10bb4056f942",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0002/under.dng",
+    "sha256": "e403a2abadaca89d5ccd4edd00c32009795887169c59be135b97358e1415661b",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0002/normal.dng",
+    "sha256": "e0e4b4996cf23861cbe591cd6d19f16e63c6f2fffe67ba93355b7e088460fa9e",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0002/over.dng",
+    "sha256": "399b42771f314ec649fec317b6e56bb47269d303dd388e3568460ef9297dba58",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0003/under.dng",
+    "sha256": "4d6775b391a6e561f9066b36608dd860f01ccc295eb4c735b085b300796217c3",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0003/normal.dng",
+    "sha256": "a5114b6e6fb84a5ca2d31d1aa9533027e646934eb3a1afc8547a2d53ababed10",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0003/over.dng",
+    "sha256": "bd25bae450b084593fb9e277c6f919933b3de8b2e1f0865d8cfa6bf8cef6f6fa",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0004/under.dng",
+    "sha256": "55c2c705dcaa49ffa8a5f0dc93d4d7050eddbe1bc1ac1070c03eb11d037b8096",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0004/normal.dng",
+    "sha256": "2c6873cb40f113a280da2f6fc7990a8e157d359e9a6307d2c9f432a199a41108",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0004/over.dng",
+    "sha256": "d161c0847b252dbd36e427f22d40da65a6c8ca7a7192632064ae2fe490690a13",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0005/under.dng",
+    "sha256": "53db96c4c296e1ac9071c32059e05ac7b3ff0f623d6917c21364f0d75fed31b0",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0005/normal.dng",
+    "sha256": "de398b6d9178e240862ee0fe7ba70710e130d3410f00f7dac85f5ce9ba8b7f48",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  },
+  {
+    "file": "data/mef/scene_0005/over.dng",
+    "sha256": "055ebb31335f66e7251547d59660d9748a0989a98d027e073461b528e2ede45c",
+    "ifds": [
+      {
+        "ifd": "0",
+        "shape": [
+          1536,
+          2048,
+          3
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.YCBCR: 6>",
+          "BitsPerSample": "(8, 8, 8)",
+          "SamplesPerPixel": "3",
+          "UniqueCameraModel": "'iPhone18,1 back camera'",
+          "Software": "'ProCamera 26.2.2'",
+          "NewSubfileType": "<FILETYPE.REDUCEDIMAGE: 1>"
+        }
+      },
+      {
+        "ifd": "0/0",
+        "shape": [
+          3024,
+          4224
+        ],
+        "tags": {
+          "PhotometricInterpretation": "<PHOTOMETRIC.CFA: 32803>",
+          "CFAPattern": "b'\\x02\\x01\\x01\\x00'",
+          "CFARepeatPatternDim": "(2, 2)",
+          "BitsPerSample": "16",
+          "SamplesPerPixel": "1",
+          "BlackLevel": "528",
+          "WhiteLevel": "4095",
+          "NewSubfileType": "<FILETYPE.UNDEFINED: 0>"
+        }
+      }
+    ]
+  }
+]

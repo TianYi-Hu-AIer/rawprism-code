@@ -1,0 +1,29 @@
+{
+  "parameters": 27043585,
+  "trainable_parameters": 5442433,
+  "unique_named_parameters": 412,
+  "state_elements": 70290881,
+  "checkpoint_elements": 70290881,
+  "missing_keys": [],
+  "unexpected_keys": [],
+  "strict_load": true,
+  "method": "UniFusion",
+  "task": "ivif",
+  "device": "cpu",
+  "repo_root": "/workspace/rawprism/repos/UniFusion",
+  "repo_commit": "edac73bfd12e4772f0979d320f12a37e575f0f1d",
+  "repo_commit_verified": true,
+  "artifacts": {
+    "checkpoint": {
+      "file": "G.pth",
+      "resolved_path": "/workspace/rawprism/repos/UniFusion/Model/Infrared_Visible_Fusion/G.pth",
+      "sha256": "579041696a047e8c9d411bf30a28e68201339682deb9329c72909b32125951c6"
+    },
+    "dino_checkpoint": {
+      "file": "dinov3_vits16_pretrain_lvd1689m-08c60483.pth",
+      "resolved_path": "/workspace/rawprism/repos/UniFusion/dinov3_vits16_pretrain_lvd1689m-08c60483.pth",
+      "sha256": "08c60483bc63c04f533611e34bf70b120eedb7240f469bc16e9e20bf344b941d"
+    }
+  },
+  "torch_version": "2.8.0+cu128"
+}

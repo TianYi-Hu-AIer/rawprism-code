@@ -1,0 +1,32 @@
+{
+  "mef": {
+    "command": "PYTHONPATH=review_build/fixed/src:code/src:. OMP_NUM_THREADS=2 python review_build/fixed/tools/evaluate_v2.py --preds review_build/mef_repro_preds --data . --out review_build/mef_repro_metrics --tasks mef --methods final --splits mef=code/src/finalfusion/mef_scene_split.json --fov resize --mef-ssim-levels 3",
+    "checkpoint_sha256": "611f2b757dd378b2e45107615893441e2dbe5b1fafc6304255f323fd2b0bbe69",
+    "v10_sha256": "4a1b85cfa59c8f774eeb353228b87e71cbaba3f9aa3f1c8a7eaf4928cec6e00d",
+    "delta_sha256": "66e428488c4e75d116058fa3d2878817e01421968fa60bbf80ea3df5b661e611",
+    "split_sha256": "2608b8a29c63f1b6edbc3ddc20c90c4a71a1a46225ca6b05e978410105261453",
+    "split_counts": {"train": 338, "val": 42, "test": 42},
+    "scenes": 42,
+    "fov": "resize",
+    "mef_ssim_levels": 3,
+    "predictions": "review_build/mef_repro_preds/mef",
+    "summary": "validation/mef_repro_lsy.json",
+    "per_image": "validation/mef_repro_lsy.csv"
+  },
+  "ivif_c": {
+    "command": "PYTHONPATH=review_build/fixed/src:code/src:. OMP_NUM_THREADS=1 python review_build/fixed/tools/evaluate_v2.py --preds preds_joint --data data_ivif_rt --out review_build/ivif_c_repro --tasks ivif --methods head_a10 --fov strict",
+    "checkpoint_sha256": "611f2b757dd378b2e45107615893441e2dbe5b1fafc6304255f323fd2b0bbe69",
+    "predictions": "preds_joint/head_a10/ivif",
+    "summary": "validation/ivif_c_repro_lsy.json",
+    "per_image": "validation/ivif_c_repro_lsy.csv",
+    "scenes": 280
+  },
+  "ivif_s": {
+    "command": "PYTHONPATH=review_build/fixed/src:code/src:. OMP_NUM_THREADS=1 python review_build/fixed/tools/evaluate_v2.py --preds preds_joint --data . --out review_build/ivif_s_repro --tasks ivif --methods head_a10 --fov strict",
+    "checkpoint_sha256": "611f2b757dd378b2e45107615893441e2dbe5b1fafc6304255f323fd2b0bbe69",
+    "predictions": "preds_joint/head_a10/ivif",
+    "summary": "validation/ivif_s_repro_lsy.json",
+    "per_image": "validation/ivif_s_repro_lsy.csv",
+    "scenes": 280
+  }
+}

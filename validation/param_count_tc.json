@@ -1,0 +1,28 @@
+{
+  "parameters": 340886920,
+  "trainable_parameters": 340584328,
+  "unique_named_parameters": 623,
+  "state_elements": 341501592,
+  "checkpoint_elements": 341501592,
+  "missing_keys": [],
+  "unexpected_keys": [],
+  "strict_load": true,
+  "method": "TC-MoA",
+  "device": "cpu",
+  "repo_root": "/workspace/rawprism/repos/TC-MoA-main",
+  "repo_commit": null,
+  "repo_commit_verified": false,
+  "artifacts": {
+    "checkpoint": {
+      "file": "checkpoint-0-TC_MoA_Base_test.pth",
+      "resolved_path": "/workspace/rawprism/repos/TC-MoA-main/checkpoint/checkpoint-0-TC_MoA_Base_test.pth",
+      "sha256": "c77e341f6888487eb2fd03023a7e63a5fe039baf7a0d1697e7eba4d2d8696357"
+    },
+    "config": {
+      "file": "predict.yaml",
+      "resolved_path": "/workspace/rawprism/repos/TC-MoA-main/config/predict.yaml",
+      "sha256": "174ed66c4ec90ff426ba3eb0b9f0c36d17a144c951919ee4a253310263468853"
+    }
+  },
+  "torch_version": "2.8.0+cu128"
+}
