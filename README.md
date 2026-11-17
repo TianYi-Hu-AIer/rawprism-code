@@ -73,10 +73,15 @@ PYTHONPATH=src python -m finalfusion.infer \
 
 ## Data
 
-The RAWPrism dataset (422 captured MEF scenes, 150 registered MFF pairs, and
-the FMB-derived IVIF reconstruction pipeline) is distributed as a separate
-restricted record during the review period. MFF inference consumes
-`registered_raw_pair.npz` inputs; MEF requires the scene's exposure metadata.
+RAWPrism-Benchmark is available on Baidu Netdisk:
+
+- [Download RAWPrism_Benchmark](https://pan.baidu.com/s/1OLz5bYI-DRutXGhjyGmSAA?pwd=zdpb)
+- Extraction code: `zdpb`
+
+Model weights are available in the
+[v1.0-weights release](https://github.com/TianYi-Hu-AIer/rawprism-code/releases/tag/v1.0-weights).
+
+
 
 ## License
 
